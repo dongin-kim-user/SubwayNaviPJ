@@ -24,5 +24,5 @@
 #### ⪢ &nbsp; Rx 라이브러리 사용
 #### ⪢ &nbsp; Couroutine을 이용하여 비동기 앱 처리
 #### ⪢ &nbsp; Naver Map Api
-#### ⪢ &nbsp; 지하철 정보 json 파일은 따로 가상서버(없을 시 raw를 이용)를 이용해 파싱하여 
+#### ⪢ &nbsp; 지하철 정보 json 파일은 따로 가상서버(없을 시 raw를 이용)를 이용해 파싱 
 
