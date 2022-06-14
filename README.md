@@ -1,6 +1,6 @@
 
 # SubwayNaviPJ
-## 서울 숲 주변 역 표시 앱 (포트폴리오용 소카 입사 과제)
+## 서울 숲 주변 역 표시 앱 (개발회사 입사 과제)
 <br></br>
 <img src="https://user-images.githubusercontent.com/72061038/173228292-5f9bfece-5829-40bf-8493-ead9feb227d1.png" width="250" height="500"> <img src="https://user-images.githubusercontent.com/72061038/173228294-3efa2efa-cd9b-427a-b183-3df88c70b53a.png" width="250" height="500"> <img src="https://user-images.githubusercontent.com/72061038/173228298-e4ee76f8-d28f-4d40-9f1a-98c540832e7e.png" width="250" height="500">
 
