@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--view size-->
+    <dimen name="normal_view_size">48dp</dimen>
+    <dimen name="station_btn_size">90dp</dimen>
+    <dimen name="title_size">100dp</dimen>
+    <!--padding size-->
+    <dimen name="padding_half">8dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_station">32dp</dimen>
+    <!--view distance-->
+    <dimen name="station_btn_distance">12dp</dimen>
+    <dimen name="normal_distance">16dp</dimen>
+    <dimen name="double_distance">32dp</dimen>
+    <!--corner round-->
+    <dimen name="normal_dp">16dp</dimen>
+    <!--text size-->
+    <dimen name="normal_text_size">16sp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+
+</resources>
